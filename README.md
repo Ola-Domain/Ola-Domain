@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Ola-Domain/Ola-Domain/blob/main/ola.jpg" />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
 
 My Name is [Oladotun](https://wa.me/+2348135799874). I am still a student of [Alx](https://www.alxafrica.com/) Full stack software engineer with interest in solving real-world problems with technology and dependable leadership.<br/>
 Ask me anything [here](https://github.com/Ola-Domain/Ola-Domain/issues?q=is%3Aissue+is%3Aopen).
