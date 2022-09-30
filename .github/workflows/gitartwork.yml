@@ -15,6 +15,6 @@
             # Use this username's contribution graph  
             user_name: Ola-Domain
             # Text on contribution graph 
-            text: OLA-DOMAIN
+            text: DOMAIN
        - uses: jasineri/simple-push-action@v1
 
