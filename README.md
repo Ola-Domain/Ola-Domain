@@ -9,8 +9,3 @@ I am an aspiring software engineer
 
 ![Ola-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ola-Domain&show_icons=true&theme=radical)
 
-![Ola-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ola-Domain&show_icons=true)
-![Ola-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ola-Domain&count_private=true)
-
-![Ola-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ola-Domain&hide=contribs,prs)
-
