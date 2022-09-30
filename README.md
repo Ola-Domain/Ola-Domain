@@ -1,4 +1,11 @@
+
+ ## Hi there 👋
+
+ ![gitartwork](gitartwork.svg)
+
 <img src="https://github.com/Ola-Domain/Ola-Domain/blob/main/ola.jpg" />
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 My Name is [Oladotun](https://wa.me/+2348135799874). I am still a student of [Alx](https://www.alxafrica.com/) Full stack software engineer with interest in solving real-world problems with technology and dependable leadership.<br/>
 Ask me anything [here](https://github.com/Ola-Domain/Ola-Domain/issues?q=is%3Aissue+is%3Aopen).
@@ -30,3 +37,18 @@ Ask me anything [here](https://github.com/Ola-Domain/Ola-Domain/issues?q=is%3Ais
 </p>
 </div>
 
+
+<!--
+**Ola-Domain/Ola-Domain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on C projects
+- 🌱 I’m currently learning C programming language
+- 👯 I’m looking to collaborate on C programming, others and html
+- 🤔 I’m looking for help with C programming language, Python, Front End Development Technologies
+- 💬 Ask me about C programming
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
