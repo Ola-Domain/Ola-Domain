@@ -26,12 +26,17 @@ Ask me anything [here](https://github.com/Ola-Domain/Ola-Domain/issues?q=is%3Ais
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Domain&langs_count=8&theme=radical&layout=compact" />
 </a>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ola-Domain&theme=radical)](https://git.io/streak-stats)
+
 <p>
   <a href="https://twitter.com/Shiku2020" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sulaimon-olasupo-84422423b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://web.facebook.com/olasupo.sulaimonoladotun" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 </div>
+
+
 
 <img src="https://github.com/Ola-Domain/Ola-Domain/blob/main/ola.jpg" />
 
