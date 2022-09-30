@@ -7,7 +7,7 @@ I am an aspiring software engineer
 
 ![Ola-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ola-Domain&show_icons=true&theme=radical)
 
-[![Ola-Domain's GitHub Streak](https://streak-stats.demolab.com/?user=Ola-Domain&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Ola-Domain's GitHub Streak](https://streak-stats.demolab.com/?user=Ola-Domain&show_icons=true&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Domain&show_icons=true&theme=radical&layout=compact)](https://github.com/Ola-Domain/github-readme-stats)
 
